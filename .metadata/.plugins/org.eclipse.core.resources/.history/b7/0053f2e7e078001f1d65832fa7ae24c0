@@ -1,0 +1,5 @@
+package projetoServNuvem.minha_biblioteca_backend;
+
+public class Book {
+
+}
